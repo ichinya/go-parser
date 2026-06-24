@@ -8,7 +8,7 @@ require (
 	github.com/joho/godotenv v1.5.1
 	github.com/playwright-community/playwright-go v0.4902.0
 	github.com/rabbitmq/amqp091-go v1.10.0
-	go.mongodb.org/mongo-driver v1.17.2
+	go.mongodb.org/mongo-driver v1.17.7
 )
 
 require (
