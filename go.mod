@@ -7,7 +7,7 @@ toolchain go1.24.1
 require (
 	github.com/joho/godotenv v1.5.1
 	github.com/playwright-community/playwright-go v0.4902.0
-	github.com/rabbitmq/amqp091-go v1.10.0
+	github.com/rabbitmq/amqp091-go v1.13.0
 	go.mongodb.org/mongo-driver v1.17.7
 )
 
